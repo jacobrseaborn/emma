@@ -6,6 +6,9 @@ module.exports = {
     },
     extend: {
       colors: {},
+      fontFamily: {
+        title: ['Limelight', 'sans-serif'],
+      },
     },
   },
   variants: {},
